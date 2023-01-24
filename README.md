@@ -30,3 +30,4 @@ autors: BACH Romain & SAVANE Kaouding
 institution: ENSEA, Cergy, France
 year: 2023
 title: Predictions of power consumption of Tetuan (Morocco)
+supervised by Pierru Hubert
